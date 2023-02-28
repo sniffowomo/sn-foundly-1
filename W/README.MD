@@ -24,7 +24,7 @@
 |       🌵       |                       🕯️                       |
 | :-----------: | :-------------------------------------------: |
 | [`so`](./so/) | SmaryKontraz in dis <br> make what this in it |
-
+[`mytest`](./mytest/) | Various Tests which you are doing
 
 # Testing 
 
