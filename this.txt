@@ -1,0 +1,21 @@
+╭───┬────────────┬─────────┬────────┬──────────┬───────────┬───────────┬─────────┬───────────┬───────────┬────────┬─────────────┬─────────────┬─────╮
+│ # │    name    │  type   │ target │ readonly │   mode    │ num_links │  inode  │    uid    │   group   │  size  │   created   │  accessed   │ ... │
+├───┼────────────┼─────────┼────────┼──────────┼───────────┼───────────┼─────────┼───────────┼───────────┼────────┼─────────────┼─────────────┼─────┤
+│ 0 │ /workspace │ file    │        │ false    │ rw-rw-rw- │         1 │ 1441853 │ codespace │ root      │ 1.5 KB │ 4 hours ago │ 4 hours ago │ ... │
+│   │ s/sn-found │         │        │          │           │           │         │           │           │        │             │             │     │
+│   │ ly-1/./LIC │         │        │          │           │           │         │           │           │        │             │             │     │
+│   │ ENSE       │         │        │          │           │           │         │           │           │        │             │             │     │
+│ 1 │ /workspace │ file    │        │ false    │ rw-rw-rw- │         1 │ 1441854 │ codespace │ codespace │  518 B │ 16 minutes  │ 11 minutes  │ ... │
+│   │ s/sn-found │         │        │          │           │           │         │           │           │        │ ago         │ ago         │     │
+│   │ ly-1/./REA │         │        │          │           │           │         │           │           │        │             │             │     │
+│   │ DME.md     │         │        │          │           │           │         │           │           │        │             │             │     │
+│ 2 │ /workspace │ dir     │        │ false    │ rwxrwxrwx │         3 │ 1602889 │ codespace │ codespace │ 4.1 KB │ 12 minutes  │ 11 minutes  │ ... │
+│   │ s/sn-found │         │        │          │           │           │         │           │           │        │ ago         │ ago         │     │
+│   │ ly-1/./W   │         │        │          │           │           │         │           │           │        │             │             │     │
+│ 3 │ /workspace │ symlink │ s/g.sh │ false    │ rwxrwxrwx │         1 │ 1441875 │ codespace │ codespace │    6 B │ 4 hours ago │ 4 hours ago │ ... │
+│   │ s/sn-found │         │        │          │           │           │         │           │           │        │             │             │     │
+│   │ ly-1/./g   │         │        │          │           │           │         │           │           │        │             │             │     │
+│ 4 │ /workspace │ dir     │        │ false    │ rwxrwxrwx │         3 │ 1441869 │ codespace │ codespace │ 4.1 KB │ 4 hours ago │ 12 minutes  │ ... │
+│   │ s/sn-found │         │        │          │           │           │         │           │           │        │             │ ago         │     │
+│   │ ly-1/./s   │         │        │          │           │           │         │           │           │        │             │             │     │
+╰───┴────────────┴─────────┴────────┴──────────┴───────────┴───────────┴─────────┴───────────┴───────────┴────────┴─────────────┴─────────────┴─────╯
