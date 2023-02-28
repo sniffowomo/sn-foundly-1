@@ -20,3 +20,6 @@
 
 # Dirs 
 
+🥼 | 🛩️
+|:--:|:--:|
+[`f1`](./f1/) | $Fou_{ndry}$ general testing 
